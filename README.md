@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @horacioparisotto
+- 👀 I’m interested in Full-Stack.
+- 🌱 I’m currently learning Next.js (SSR), Redux, Tailwind CSS, NextAuth Authentication API, React.js, Webhooks, Stripe, Firebase.
+- 💞️ I’m looking to collaborate on Real Life Web Apps.
+- 📫 How to reach me linkedin.com/in/horacioparisotto / parisottohoracio@gmail.com / www.horaciocodes.com 
+- 😄 Pronouns: they/them.
+- ⚡ Fun fact: I’m passionate about coffee.
