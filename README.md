@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 <strong>Languages:</strong> JavaScript, HTML, CSS.
+  🦄 <strong>Languages:</strong> JavaScript, Typescript, HTML, CSS.
 </p>
 
 <p align="left">
