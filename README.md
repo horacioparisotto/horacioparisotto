@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 <strong>Feel free to reach out to me for collaboration or inquiries.
+  💌 <strong>Feel free to reach out to me for collaboration or inquiries.<br>
     I'm always open to new opportunities about technology and development.</strong> ⤵️
 </p>
 
