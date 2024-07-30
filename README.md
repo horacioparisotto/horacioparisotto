@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Greetings! My name is Horacio Parisotto, a passionate developer from Argentina. I have refined my coding expertise through rigorous training and hands-on projects, including completing programs at the University of Code and JS Mastery. My work primarily involves building robust applications that address real-world challenges, with a strong focus on technologies like JavaScript, React, and Next.js. Currently, I am expanding my portfolio with innovative projects such as a banking finance app, a healthcare app, and a virtual shopping mall concept.
+  Greetings! I'm Horacio Parisotto, a developer from Argentina with advanced training from the University of Code and JS Mastery. I specialize in JavaScript, React, and Next.js, building robust applications for real-world challenges. My recent projects include a banking finance app, a dynamic booking platform with map integration, a seamless e-commerce platform, and an entertainment streaming service with subscription plans.
 </p>
 
 <p align="left">
@@ -13,8 +13,7 @@
 </p>
 
 <p align="left">
-  💌 <strong>Feel free to reach out to me for collaboration or inquiries.<br>
-    I'm always open to new opportunities about technology and development.</strong> ⤵️
+  💌 <strong>Feel free to reach out to me for collaboration or inquiries.</strong> ⤵️
 </p>
 
 <p align="left">
