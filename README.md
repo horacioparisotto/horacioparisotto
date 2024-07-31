@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  💌 <strong>Feel free to reach out to me for collaboration or inquiries.</strong> ⤵️
+  💌 Feel free to reach out to me for collaboration or inquiries.
 </p>
 
 <p>
