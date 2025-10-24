@@ -1,19 +1,31 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" width="400" align="right">
 
 <p style="text-align: justify;">
-  Greetings! I'm Horacio Parisotto, a developer from Argentina with advanced training from the University of Code and JS Mastery. I specialize in JavaScript, React, and Next.js, building robust applications for real-world challenges. My recent projects include a banking finance app, a dynamic booking platform with map integration, a seamless e-commerce platform, and an entertainment streaming service with subscription plans.
+  Hi! I'm Horacio Parisotto, a Senior Fullstack Developer from Buenos Aires, Argentina, specializing in AI integrations and scalable web applications. I have over 3 years of experience leading technical teams and developing full-stack applications across web and mobile platforms.
 </p>
 
 <p>
-  🦄 <strong>Languages:</strong> JavaScript, Typescript, HTML, CSS.
+  💻 <strong>Languages:</strong> TypeScript, JavaScript, HTML, CSS
 </p>
 
 <p>
-  💼 <strong>Tools:</strong> React, Next.js, Node.js, Redux, Tailwind CSS, Firebase, Stripe, Git & GitHub.
+  🎨 <strong>Frontend:</strong> React, React Native, Next.js, Expo, TailwindCSS, Zustand, React Query
 </p>
 
 <p>
-  💌 Feel free to reach out to me for collaboration or inquiries.
+  ⚙ <strong>Backend:</strong> Node.js, Express.js, PostgreSQL, MongoDB, Redis, BullMQ, Drizzle ORM
+</p>
+
+<p>
+  🤖 <strong>AI & Integrations:</strong> OpenAI, Vapi AI, Stripe, AWS
+</p>
+
+<p>
+  🛠 <strong>Tools & Infrastructure:</strong> Docker, Git & GitHub, PM2, Passport.js, WebSockets
+</p>
+
+<p>
+  💌 Feel free to reach out for collaboration or inquiries.
 </p>
 
 <p>
@@ -21,14 +33,6 @@
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.horaciocodes.com" title="Portfolio">
-    <img src="https://img.shields.io/badge/-🖥️ Portfolio-FF5722?style=flat-square&labelColor=FF5722" alt="Portfolio"/>
-  </a>
+    <img src="https://img.shields.io/badge/-🖥 Portfolio-FF5722?style=flat-square&labelColor=FF5722" alt="Portfolio"/>
+  </a>
 </p>
-
-
-
-
-
-
-
-
