@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/horacioparisotto/" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.horaciocodes.com" title="Portfolio">
+  <a href="https://portfoliov2-five-wine.vercel.app/" title="Portfolio">
     <img src="https://img.shields.io/badge/-🖥 Portfolio-FF5722?style=flat-square&labelColor=FF5722" alt="Portfolio"/>
   </a>
 </p>
