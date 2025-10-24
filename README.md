@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" width="400" align="right">
 
 <p style="text-align: justify;">
-  Hi! I'm Horacio Parisotto, a Senior Fullstack Developer from Buenos Aires, Argentina, specializing in AI integrations and scalable web applications. I have over 3 years of experience leading technical teams and developing full-stack applications across web and mobile platforms.
+  Hi! I'm Horacio Parisotto, a Senior Fullstack Developer from Buenos Aires, Argentina, specializing in AI integrations and scalable web applications. I have over 4 years of experience leading technical teams and developing full-stack applications across web and mobile platforms.
 </p>
 
 <p>
