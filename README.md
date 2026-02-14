@@ -1,9 +1,28 @@
-💻 Languages: TypeScript, JavaScript, HTML, CSS
+# 👋 Hola, soy Horacio Parisotto
 
-🎨 Frontend: React, React Native, Next.js, Expo, TailwindCSS, Redux, Zustand, React Query
+**Senior Full-Stack Developer** | React | Next.js | Node.js | TypeScript | React Native
 
-⚙ Backend: Node.js, Express.js, Firebase, PostgreSQL, MongoDB, GraphQL, Redis, BullMQ, Drizzle ORM
+🚀 Forbes-featured projects | 2,929+ contributions last year
 
-🤖 AI & Integrations: OpenAI, Stripe, Mercado Pago, Amadeus API, Calendly
+[Portfolio](https://www.horacioparisotto.com) | [LinkedIn](https://linkedin.com/in/horacioparisotto)
 
-🛠 Tools & Infrastructure: Docker, Google Cloud Run, AWS, Git, GitHub Actions, Vercel, Jest, Sentry, PM2, WebSockets
+---
+
+💻 **Languages:** TypeScript, JavaScript, HTML, CSS, Python
+
+🎨 **Frontend:** React, React Native, Next.js, Expo, TailwindCSS, Redux, Zustand, React Query
+
+⚙️ **Backend:** Node.js, Express.js, Firebase, PostgreSQL, MongoDB, GraphQL, Redis, BullMQ, Drizzle ORM
+
+🤖 **AI & Integrations:** OpenAI, Claude, RAG (Retrieval-Augmented Generation), Vector Databases, LangChain, Stripe, Mercado Pago, Amadeus API
+
+🛠️ **Tools & Infrastructure:** Docker, Google Cloud Run, AWS, Git, GitHub Actions, Vercel, Jest, Sentry, PM2, WebSockets
+
+---
+
+## 🌟 Featured Projects
+
+- **ArenaScheduling** - Venue management system deployed on Google Cloud Run
+- **PitchPrfct** - AWS infrastructure with complete CI/CD pipeline
+- **BuzzGrid** - AI-powered commerce platform with comprehensive CI/CD
+- **LitApp** - React Native influencer marketplace featured in Forbes México & Colombia
