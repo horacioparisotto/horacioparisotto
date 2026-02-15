@@ -1,4 +1,4 @@
-# 👋 Hola, soy Horacio Parisotto
+# 👋 Hi, Im Horacio Parisotto
 
 **Senior Full-Stack Developer** | React | Next.js | Node.js | TypeScript | React Native
 
