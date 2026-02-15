@@ -1,6 +1,6 @@
 # 👋 Hi, Im Horacio Parisotto
 
-**Senior Full-Stack Developer** | React | Next.js | Node.js | TypeScript | React Native
+**Senior Full-Stack Developer** | AI Integrations | TypeScript | Python | React | Next.js | React Native | Node.js | PostgreSQL | AWS
 
 🚀 Forbes-featured projects | 2,929+ contributions last year
 
