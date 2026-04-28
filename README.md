@@ -2,7 +2,7 @@
 
 **Senior Full-Stack Developer** | AI Integrations | TypeScript | Python | React | Next.js | React Native | Node.js | PostgreSQL | AWS
 
-🚀 Forbes-featured projects | 2,929+ contributions last year
+🚀 Forbes-featured projects | 2,700+ contributions last year
 
 [Portfolio](https://www.horacioparisotto.com) | [LinkedIn](https://linkedin.com/in/horacioparisotto)
 
