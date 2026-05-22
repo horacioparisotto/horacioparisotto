@@ -16,7 +16,7 @@
 
 🤖 **AI & LLMs:** Anthropic Claude, Google Gemini, OpenAI, AI Agents, RAG (Retrieval-Augmented Generation), Tool Use, Vector Search (sqlite-vec, pgvector), Multi-provider AI Vision, Prompt Engineering, ElevenLabs
 
-🎥 **Real-Time & Media:** FFmpeg, RTSP/HLS, Server-Sent Events, MediaMTX
+🎥 **Real-Time & Media:** FFmpeg, RTSP/HLS, Server-Sent Events, MediaMTX, WebRTC, RTMP
 
 🛠️ **Cloud & DevOps:** Docker, Google Cloud Run, AWS, Vercel, Cloudflare, Git, GitHub Actions, Jest, Vitest, Sentry, PM2
 
