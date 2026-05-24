@@ -26,7 +26,7 @@
 
 ## 🌟 Featured Projects
 
-- **OurBlock.io** — Founder & Sole Engineer. AI-powered security platform for residential buildings. Hybrid AI vision (Claude + Gemini) with 95% cost reduction via multi-provider routing, RAG-based forensic search (sqlite-vec + OpenAI embeddings), multi-step AI agent with tool calling for autonomous investigations, real-time video pipeline streaming 32 RTSP-to-HLS feeds via FFmpeg at under 5% CPU, Twilio WhatsApp Business panic button integration. Single-server architecture tuned for bare-metal mini PC deployment.
+- **OurBlock.io** — Founder & Engineer. AI-powered security platform for residential buildings. Hybrid AI vision (Claude + Gemini) with 95% cost reduction via multi-provider routing, RAG-based forensic search (sqlite-vec + OpenAI embeddings), multi-step AI agent with tool calling for autonomous investigations, real-time video pipeline streaming 32 RTSP-to-HLS feeds via FFmpeg at under 5% CPU, Twilio WhatsApp Business panic button integration. Single-server architecture tuned for bare-metal mini PC deployment.
 
 - **Arena Scheduling** — Multi-venue management platform for 20+ sports arenas with IoT integration (ESP32 horns via Firebase RTDB) and Python/Cloud Run scrapers. Optimized Firebase queries cutting monthly costs from $2,000 to free tier (99.7% reduction).
 
