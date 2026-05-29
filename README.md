@@ -2,7 +2,7 @@
 
 **Senior Full-Stack Engineer & Founder @ OurBlock.io** | AI Agents · RAG · Tool Use · AI Vision (Claude + Gemini) · Real-Time Video · TypeScript · React · Next.js · Node.js · Python · AWS
 
-🚀 Forbes-featured projects | Founder of an AI-powered security platform | 2,800+ contributions last year
+🚀 Forbes-featured projects | Founder of an AI-powered security platform | 3,000+ contributions last year
 
 [Portfolio](https://www.horacioparisotto.com) | [LinkedIn](https://linkedin.com/in/horacioparisotto) | [OurBlock.io](https://ourblock.io)
 
