@@ -1,45 +1,46 @@
-# 👋 Hi, I'm Horacio Parisotto
+# Horacio Parisotto
 
-**Senior Full-Stack Engineer & Founder @ OurBlock.io** | AI Agents · RAG · Tool Use · AI Vision (Claude + Gemini) · Real-Time Video · TypeScript · React · Next.js · Node.js · Python · AWS
+**Senior Full-Stack Engineer & Founder @ OurBlock.io**
+AI Agents · RAG · Tool Use · AI Vision (Claude + Gemini) · Real-Time Video · TypeScript · React · Next.js · Node.js · Python · AWS
 
-🚀 Forbes-featured projects | Founder of an AI-powered security platform | 3,000+ contributions last year
+Forbes-featured projects - Founder of an AI-powered security platform - 3,000+ contributions last year
 
-[Portfolio](https://www.horacioparisotto.com) | [LinkedIn](https://linkedin.com/in/horacioparisotto) | [OurBlock.io](https://ourblock.io)
-
----
-
-💻 **Languages:** TypeScript, JavaScript, Python, HTML, CSS
-
-🎨 **Frontend:** React, React Native, Next.js, Expo, Tailwind CSS, Redux, Zustand, React Query
-
-⚙️ **Backend:** Node.js, Express, PostgreSQL, MongoDB, Firebase, GraphQL, Redis, BullMQ, Drizzle ORM
-
-🤖 **AI & LLMs:** Anthropic Claude, Google Gemini, OpenAI, AI Agents, RAG (Retrieval-Augmented Generation), Tool Use, Vector Search (sqlite-vec, pgvector), Multi-provider AI Vision, Prompt Engineering, ElevenLabs
-
-🎥 **Real-Time & Media:** FFmpeg, RTSP/HLS, Server-Sent Events, MediaMTX, WebRTC, RTMP
-
-🛠️ **Cloud & DevOps:** Docker, Google Cloud Run, AWS, Vercel, Cloudflare, Git, GitHub Actions, Jest, Vitest, Sentry, PM2
-
-🔌 **Integrations:** Stripe, Mercado Pago, Twilio (WhatsApp Business), Resend, Amadeus API, Webhooks, OAuth 2.0
+[Portfolio](https://www.horacioparisotto.com) · [LinkedIn](https://linkedin.com/in/horacioparisotto) · [OurBlock.io](https://ourblock.io)
 
 ---
 
-## 🌟 Featured Projects
+### Stack
 
-- **OurBlock.io** — Founder & Engineer. AI-powered security platform for residential buildings. Hybrid AI vision (Claude + Gemini) with 95% cost reduction via multi-provider routing, RAG-based forensic search (sqlite-vec + OpenAI embeddings), multi-step AI agent with tool calling for autonomous investigations, real-time video pipeline streaming 32 RTSP-to-HLS feeds via FFmpeg at under 5% CPU, Twilio WhatsApp Business panic button integration. Single-server architecture tuned for bare-metal mini PC deployment.
+**Languages:** TypeScript, JavaScript, Python, HTML, CSS
 
- <img width="668" height="254" alt="x" src="https://github.com/user-attachments/assets/82f9a604-e640-4884-8be5-dc5923a6d957" />
+**Frontend:** React, React Native, Next.js, Expo, Tailwind CSS, Redux, Zustand, React Query
 
+**Backend:** Node.js, Express, PostgreSQL, MongoDB, Firebase, GraphQL, Redis, BullMQ, Drizzle ORM
 
-- **Arena Scheduling** — Multi-venue management platform for 20+ sports arenas with IoT integration (ESP32 horns via Firebase RTDB) and Python/Cloud Run scrapers. Optimized Firebase queries cutting monthly costs from $2,000 to free tier (99.7% reduction).
+**AI & LLMs:** Anthropic Claude, Google Gemini, OpenAI, AI Agents, RAG (Retrieval-Augmented Generation), Tool Use, Vector Search (sqlite-vec, pgvector), Multi-provider AI Vision, Prompt Engineering, ElevenLabs
 
-<img width="690" height="253" alt="xx" src="https://github.com/user-attachments/assets/262d27a3-58ee-47b7-93b0-91b0e5d4199d" />
+**Real-Time & Media:** FFmpeg, RTSP/HLS, Server-Sent Events, MediaMTX, WebRTC, RTMP
 
+**Cloud & DevOps:** Docker, Google Cloud Run, AWS, Vercel, Cloudflare, Git, GitHub Actions, Jest, Vitest, Sentry, PM2
 
-- **Pitchprfct** — Senior Full-Stack contractor. Architected OR/AND filter system across client/server/database, ChatGPT-style slash commands, BullMQ + Redis job queues on AWS for 10DLC compliance monitoring.
+**Integrations:** Stripe, Mercado Pago, Twilio (WhatsApp Business), Resend, Amadeus API, Webhooks, OAuth 2.0
 
- <img width="674" height="292" alt="xxx" src="https://github.com/user-attachments/assets/6104e675-4c79-402c-93dd-6e7460b558ed" />
+---
 
-- **Lit Marketplace** — Senior Full-Stack contractor. End-to-end React Native influencer marketplace. Featured in Forbes México & Colombia, 1,000+ users.
+### Featured Projects
 
- <img width="682" height="299" alt="xxxx" src="https://github.com/user-attachments/assets/6dedcd22-a335-4b64-92ee-46ad9100e409" />
+**OurBlock.io** - Founder & Engineer. AI-powered security platform for residential buildings. Hybrid AI vision (Claude + Gemini) with 95% cost reduction via multi-provider routing, RAG-based forensic search (sqlite-vec + OpenAI embeddings), multi-step AI agent with tool calling for autonomous investigations, real-time video pipeline streaming 32 RTSP-to-HLS feeds via FFmpeg at under 5% CPU, Twilio WhatsApp Business panic button integration. Single-server architecture tuned for bare-metal mini PC deployment.
+
+<img width="668" height="254" alt="OurBlock" src="https://github.com/user-attachments/assets/82f9a604-e640-4884-8be5-dc5923a6d957" />
+
+**Arena Scheduling** - Multi-venue management platform for 20+ sports arenas with IoT integration (ESP32 horns via Firebase RTDB) and Python/Cloud Run scrapers. Optimized Firebase queries cutting monthly costs from $2,000 to free tier (99.7% reduction).
+
+<img width="690" height="253" alt="Arena Scheduling" src="https://github.com/user-attachments/assets/262d27a3-58ee-47b7-93b0-91b0e5d4199d" />
+
+**Pitchprfct** - Senior Full-Stack contractor. Architected OR/AND filter system across client/server/database, ChatGPT-style slash commands, BullMQ + Redis job queues on AWS for 10DLC compliance monitoring.
+
+<img width="674" height="292" alt="Pitchprfct" src="https://github.com/user-attachments/assets/6104e675-4c79-402c-93dd-6e7460b558ed" />
+
+**Lit Marketplace** - Senior Full-Stack contractor. End-to-end React Native influencer marketplace. Featured in Forbes México & Colombia, 1,000+ users.
+
+<img width="682" height="299" alt="Lit Marketplace" src="https://github.com/user-attachments/assets/6dedcd22-a335-4b64-92ee-46ad9100e409" />
