@@ -38,6 +38,6 @@
 
   <img width="700" alt="Pitchprfct" src="https://github.com/user-attachments/assets/4e6d2181-9e1c-4318-b788-a3bad780072b" />
 
-- **Lit Marketplace** — Tech Lead. End-to-end React Native influencer marketplace. Featured in Forbes México & Colombia, 1,000+ users.
+- **Lit Marketplace** — Senior Full-Stack contractor. End-to-end React Native influencer marketplace. Featured in Forbes México & Colombia, 1,000+ users.
 
   <img width="700" alt="Lit Marketplace" src="https://github.com/user-attachments/assets/a805c73b-5209-4e2f-8149-675854d208ee" />
