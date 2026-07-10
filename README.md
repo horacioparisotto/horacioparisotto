@@ -28,16 +28,18 @@
 
 - **OurBlock.io** — Founder & Engineer. AI-powered security platform for residential buildings. Hybrid AI vision (Claude + Gemini) with 95% cost reduction via multi-provider routing, RAG-based forensic search (sqlite-vec + OpenAI embeddings), multi-step AI agent with tool calling for autonomous investigations, real-time video pipeline streaming 32 RTSP-to-HLS feeds via FFmpeg at under 5% CPU, Twilio WhatsApp Business panic button integration. Single-server architecture tuned for bare-metal mini PC deployment.
 
-  <img width="700" alt="OurBlock" src="https://github.com/user-attachments/assets/db480891-0a32-470c-8d4b-c2643d42114d" />
+ <img width="668" height="254" alt="x" src="https://github.com/user-attachments/assets/82f9a604-e640-4884-8be5-dc5923a6d957" />
+
 
 - **Arena Scheduling** — Multi-venue management platform for 20+ sports arenas with IoT integration (ESP32 horns via Firebase RTDB) and Python/Cloud Run scrapers. Optimized Firebase queries cutting monthly costs from $2,000 to free tier (99.7% reduction).
 
-  <img width="700" alt="Arena Scheduling" src="https://github.com/user-attachments/assets/6abd6cdc-abe1-464f-91f3-701e1e663ce1" />
+<img width="690" height="253" alt="xx" src="https://github.com/user-attachments/assets/262d27a3-58ee-47b7-93b0-91b0e5d4199d" />
+
 
 - **Pitchprfct** — Senior Full-Stack contractor. Architected OR/AND filter system across client/server/database, ChatGPT-style slash commands, BullMQ + Redis job queues on AWS for 10DLC compliance monitoring.
 
-  <img width="700" alt="Pitchprfct" src="https://github.com/user-attachments/assets/4e6d2181-9e1c-4318-b788-a3bad780072b" />
+ <img width="674" height="292" alt="xxx" src="https://github.com/user-attachments/assets/6104e675-4c79-402c-93dd-6e7460b558ed" />
 
 - **Lit Marketplace** — Senior Full-Stack contractor. End-to-end React Native influencer marketplace. Featured in Forbes México & Colombia, 1,000+ users.
 
-  <img width="700" alt="Lit Marketplace" src="https://github.com/user-attachments/assets/a805c73b-5209-4e2f-8149-675854d208ee" />
+ <img width="682" height="299" alt="xxxx" src="https://github.com/user-attachments/assets/6dedcd22-a335-4b64-92ee-46ad9100e409" />
