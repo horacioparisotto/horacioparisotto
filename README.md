@@ -32,8 +32,4 @@
 
 - **Pitchprfct** — Senior Full-Stack contractor. Architected OR/AND filter system across client/server/database, ChatGPT-style slash commands, BullMQ + Redis job queues on AWS for 10DLC compliance monitoring.
 
-- **Buzzgrid** — AI-powered storefront platform with LLM-driven conversational product discovery and embeddable chat widget. Built with Next.js + GitLab CI/CD pipelines.
-
-- **Firedrop.app** — Fully automated dropshipping pipeline connecting CJ Dropshipping and eBay APIs. Real-time SSE console + GitHub Actions cron jobs for discovery, publishing, and inventory sync.
-
 - **Lit Marketplace** — Tech Lead. End-to-end React Native influencer marketplace. Featured in Forbes México & Colombia, 1,000+ users.
