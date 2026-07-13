@@ -47,7 +47,7 @@ Forbes-featured projects - Founder of an AI-powered security platform - 3,000+ c
 
 <br><br>
 
-**Lit Marketplace** - Senior Full-Stack contractor (Firebase). End-to-end React Native influencer marketplace. Featured in Forbes México & Colombia, 1,000+ users.
+**Lit Marketplace** - Senior Full-Stack contractor (Firebase). End-to-end React Native influencer marketplace. Featured in Forbes.
 
 <img width="682" height="299" alt="Lit Marketplace" src="https://github.com/user-attachments/assets/6dedcd22-a335-4b64-92ee-46ad9100e409" />
 
