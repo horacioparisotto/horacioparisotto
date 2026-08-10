@@ -29,7 +29,7 @@ Forbes-featured projects - Founder of an AI-powered security platform - 3,000+ c
 
 ### Featured Projects
 
-**OurBlock.io** - Founder & Engineer (AI/Edge). AI-powered security platform for residential buildings. Hybrid AI vision (Claude + Gemini) with 95% cost reduction via multi-provider routing, RAG-based forensic search (sqlite-vec + OpenAI embeddings), multi-step AI agent with tool calling for autonomous investigations, real-time video pipeline streaming 32 RTSP-to-HLS feeds via FFmpeg at under 5% CPU, Twilio WhatsApp Business panic button integration. Single-server architecture tuned for bare-metal mini PC deployment.
+**OurBlock.io** - Founder & Engineer (AI/Edge). AI-powered security platform for residential buildings. Hybrid AI vision (Claude + Gemini) with 95% cost reduction via multi-provider routing, RAG-based forensic search (sqlite-vec + OpenAI embeddings), multi-step AI agent with tool calling for autonomous investigations, real-time video pipeline streaming RTSP-to-HLS feeds via FFmpeg at under 5% CPU, Twilio WhatsApp Business panic button integration. Single-server architecture tuned for bare-metal mini PC deployment.
 
 <img width="668" height="254" alt="OurBlock" src="https://github.com/user-attachments/assets/82f9a604-e640-4884-8be5-dc5923a6d957" />
 
