@@ -1,9 +1,9 @@
 # Horacio Parisotto
 
 **Senior Full-Stack Engineer & Founder @ OurBlock.io**
-AI Agents · RAG · Tool Use · AI Vision (Claude + Gemini) · Real-Time Video · TypeScript · React · Next.js · Node.js · Python · AWS
+AI Agents · RAG · Tool Use · AI Vision (Claude + Gemini) · Real-Time Video · TypeScript · React · Next.js · Node.js · Go · Python · AWS
 
-Forbes-featured projects - Founder of an AI-powered security platform - 3,000+ contributions last year
+Forbes-featured founder · Building #1 Canada's arena scoreboard platform · 3,000+ contributions last year
 
 [Portfolio](https://www.horacioparisotto.com) · [LinkedIn](https://linkedin.com/in/horacioparisotto) · [OurBlock.io](https://ourblock.io)
 
@@ -11,43 +11,40 @@ Forbes-featured projects - Founder of an AI-powered security platform - 3,000+ c
 
 ### Stack
 
-**Languages:** TypeScript, JavaScript, Python, HTML, CSS
+**Languages:** TypeScript, JavaScript, Python, Go, HTML, CSS
 
-**Frontend:** React, React Native, Next.js, Expo, Tailwind CSS, Redux, Zustand, React Query
+**Frontend:** React, Next.js, Tailwind CSS, Redux, Zustand, React Query
 
-**Backend:** Node.js, Express, PostgreSQL, MongoDB, Firebase, GraphQL, Redis, BullMQ, Drizzle ORM
+**Backend:** Node.js, Express, PostgreSQL, Elasticsearch, MongoDB, Firebase, GraphQL, Redis, BullMQ, Drizzle ORM
 
-**AI & LLMs:** Anthropic Claude, Google Gemini, OpenAI, AI Agents, RAG (Retrieval-Augmented Generation), Tool Use, Vector Search (sqlite-vec, pgvector), Multi-provider AI Vision, Prompt Engineering, ElevenLabs
+**AI & LLMs:** Anthropic Claude, Google Gemini, OpenAI, AI Agents, MCP, RAG (Retrieval-Augmented Generation), Tool Use, Vector Search (sqlite-vec, pgvector), Multi-provider AI Vision, Prompt Engineering, ElevenLabs
 
-**Real-Time & Media:** FFmpeg, RTSP/HLS, Server-Sent Events, MediaMTX, WebRTC, RTMP
+**Distributed Systems:** Async Processing, Idempotency, Two-Phase Execution, Job Queues, Server-Sent Events
 
-**Cloud & DevOps:** Docker, Google Cloud Run, AWS, Vercel, Cloudflare, Git, GitHub Actions, Jest, Vitest, Sentry, PM2
+**Real-Time & Media:** FFmpeg, RTSP/HLS, MediaMTX, IoT (ESP32 firmware)
 
-**Integrations:** Stripe, Mercado Pago, Twilio (WhatsApp Business), Resend, Amadeus API, Webhooks, OAuth 2.0
+**Cloud & DevOps:** Docker, Google Cloud Run, Cloud Functions, AWS, Vercel, Cloudflare, Git, GitHub Actions, Jest, Vitest, Sentry, PM2
+
+**Integrations:** Stripe, Mercado Pago, Twilio (WhatsApp Business), Resend, Webhooks, OAuth 2.0, JWT
 
 ---
 
 ### Featured Projects
 
-**OurBlock.io** - Founder & Engineer (AI/Edge). AI-powered security platform for residential buildings. Hybrid AI vision (Claude + Gemini) with 95% cost reduction via multi-provider routing, RAG-based forensic search (sqlite-vec + OpenAI embeddings), multi-step AI agent with tool calling for autonomous investigations, real-time video pipeline streaming RTSP-to-HLS feeds via FFmpeg at under 5% CPU, Twilio WhatsApp Business panic button integration. Single-server architecture tuned for bare-metal mini PC deployment.
+**OurBlock.io** — Founder & Engineer (AI/Edge). AI-powered security platform for residential buildings. Hybrid AI vision (Claude + Gemini) with 95% cost reduction via multi-provider routing, RAG-based forensic search (sqlite-vec + OpenAI embeddings), multi-step AI agent with tool calling for autonomous investigations, real-time video pipeline streaming RTSP-to-HLS feeds via FFmpeg at under 5% CPU, Twilio WhatsApp Business panic button integration. Single-server architecture tuned for bare-metal mini PC deployment.
 
 <img width="1892" height="594" alt="OurBlock" src="https://github.com/user-attachments/assets/1f5c44d7-504a-46c1-a3a5-da92354253e5" />
 
 <br><br>
 
-**Arena Scheduling** - Full-Stack Engineer (GCP). Multi-venue management platform for 20+ sports arenas with IoT integration (ESP32 horns via Firebase RTDB) and Python/Cloud Run scrapers. Optimized Firebase queries cutting monthly costs from $2,000 to free tier (99.7% reduction).
-
-<img width="690" height="253" alt="Arena Scheduling" src="https://github.com/user-attachments/assets/262d27a3-58ee-47b7-93b0-91b0e5d4199d" />
+**Tur.com** — Senior Full-Stack contractor (Go). Landing page redesign and marketing self-service backoffice for Copec, Chile's #1 energy company. Built the CMS from the ground up in Go, powering 39 live landing pages across Chile, Argentina, Peru, Colombia, and Brazil with zero engineering time per campaign launch. Led a performance investigation that took mobile Lighthouse scores from 43 to 61 and desktop from 74 to 91.
 
 <br><br>
 
-**Pitchprfct** - Senior Full-Stack contractor (AWS). Architected OR/AND filter system across client/server/database, ChatGPT-style slash commands, BullMQ + Redis job queues on AWS for 10DLC compliance monitoring.
-
-<img width="674" height="292" alt="Pitchprfct" src="https://github.com/user-attachments/assets/6104e675-4c79-402c-93dd-6e7460b558ed" />
+**Confidential Client** — Senior Full-Stack contractor (AI Agents). Designed and built, in direct collaboration with the company's CTO, an autonomous AI agent that reasons over incident data via narrow, named MCP tool calls instead of direct database access — no standing credentials, every call carries the identity of whoever triggered it. Atomic, two-phase execution with idempotency guarantees across the pipeline.
 
 <br><br>
 
-**Lit Marketplace** - Senior Full-Stack contractor (Firebase). End-to-end React Native influencer marketplace. Featured in Forbes.
+**HarrisTime.ca** — Full-Stack contractor (GCP). #1 arena scoreboard platform in Canada. Multi-venue management for 18 venues, 14 ice surfaces, and 70+ hockey teams, with a website builder, IoT horn integration (ESP32 via Firebase RTDB), and Python/Cloud Run scrapers. Diagnosed and fixed a cross-venue Firestore listener leak and a runaway query pattern, cutting monthly infrastructure costs from $2,353 to $6.49/month (99.7% reduction).
 
-<img width="682" height="299" alt="Lit Marketplace" src="https://github.com/user-attachments/assets/6dedcd22-a335-4b64-92ee-46ad9100e409" />
-
+<img width="690" height="253" alt="HarrisTime" src="https://github.com/user-attachments/assets/262d27a3-58ee-47b7-93b0-91b0e5d4199d" />
