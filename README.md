@@ -3,7 +3,7 @@
 **Senior Full-Stack Engineer & Founder @ OurBlock.io**
 AI Agents · RAG · Tool Use · AI Vision (Claude + Gemini) · Real-Time Video · TypeScript · React · Next.js · Node.js · Go · Python · AWS
 
-Forbes-featured founder · Building #1 Canada's arena scoreboard platform · 3,000+ contributions last year
+Forbes-featured founder · Building #1 Canada's arena scoreboard platform · 2,700+ contributions last year
 
 [Portfolio](https://www.horacioparisotto.com) · [LinkedIn](https://linkedin.com/in/horacioparisotto) · [OurBlock.io](https://ourblock.io)
 
