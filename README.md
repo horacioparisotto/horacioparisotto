@@ -3,7 +3,7 @@
 **Senior Full-Stack & AI Engineer · Founder @ OurBlock.io**<br>
 AI Agents · MCP · RAG · Vector Search · AI Vision (Claude + Gemini) · Real-Time Video · TypeScript · React · React Native · Next.js · Node.js · Go · Python · AWS · GCP
 
-6+ years shipping production software, now focused on AI products, performance and cost efficiency · Lead engineer on a Forbes-featured startup · 2,800+ contributions last year
+6+ years shipping production software, now focused on AI products, performance and cost efficiency · Lead engineer on a Forbes-featured startup · 2,700+ contributions last year
 
 [Portfolio](https://www.horacioparisotto.com) · [LinkedIn](https://linkedin.com/in/horacioparisotto)
 
